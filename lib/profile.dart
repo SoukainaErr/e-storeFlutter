@@ -8,6 +8,7 @@ import 'Classes/product.dart';
 import 'Classes/utilisateur.dart';
 import 'cart.dart';
 
+// ignore: must_be_immutable
 class ProfilePage extends StatefulWidget {
   ProfilePage(this._user);
 
